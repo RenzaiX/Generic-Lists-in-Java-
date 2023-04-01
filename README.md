@@ -1,4 +1,4 @@
-Project Description:
+*Project Description:*
 
 This project is a Java implementation of the HashMap and Queue data structures. The project requires the creation of a custom data structure library that is generic, which means it can work with different data types. The library provides classes for data structures, method calls expected with those data structures, and the definition for an iterator so that clients of the library can iterate through the lists and maps in the same way as most generic data structures in Java.
 
